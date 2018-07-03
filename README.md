@@ -93,7 +93,8 @@ Ensure that the following options are set:
         
         192.168.2.1 share
 5. Copy the POPSTARTER folder to your memory card
-6. PS1 backups must be converted to .VCD and run through a special renaming program in order to show up in OPL.
+6. Hop on the internet and look for a copy of a file named "POPS_IOX.PAK" with md5sum "a625d0b3036823cdbf04a3c0e1648901" and copy it to `\\SMBSHARE\share\POPS`.  This file is not included for "reasons".
+7. PS1 backups must be converted to .VCD and run through a special renaming program in order to show up in OPL.
 
     To convert .bin + .cue backups, you can use the included "CUE2POP_2_3.EXE" located in `\\SMBSHARE\share\POPS\CUE2POPS v2.3`
     Copy your .VCD backups to `\\SMBSHARE\share\POPS` then run `\\SMBSHARE\share\POPS\OPLM\OPL_Manager.exe` to rename your files appropriately.
